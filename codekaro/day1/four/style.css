@@ -1,0 +1,38 @@
+.login{
+    text-align: center;
+    width: 340px;
+    padding: 10px;
+    margin: 120px auto;
+}
+.input{
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 12px;
+    font-size: 16px;
+    box-sizing: border-box;
+    border: 1px solid rgb(181, 181, 181);
+    border-radius: 10px;
+}
+.login-btn{
+    width: 60%;
+    box-sizing: border-box;
+    padding: 14px;
+    font-size: 16px;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+.logo{
+    height: 54px;
+    margin-bottom: 40px;
+}
+.login-h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.member{
+    display: flex;
+    align-items: center;
+   
+
+}

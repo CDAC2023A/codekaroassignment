@@ -1,0 +1,51 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.card{
+    border: 1px solid lightgray;
+    width: 490px;
+    margin: 20px auto;
+    border-radius: 14px;
+}
+.card-img{
+    width: 100%;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+.padding{
+    padding: 10px;
+}
+.footer{
+    border-top: 1px solid lightgray;
+}
+.card-h2{
+    color: grey;
+    margin: 0;
+}
+.unlock{
+    width: 25px;
+    height: 25px; 
+    margin-right: 10px;
+
+}
+.lock{
+    display: flex;
+    align-items: center;
+}
+.para{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: grey;
+    font: bold;
+}
+.btn{
+    padding: 2px;
+    background-color: white;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    width: 40%;
+    height: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(101, 136, 249);
+    font-size: large;
+}
